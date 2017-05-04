@@ -537,7 +537,7 @@ section {
 }
 
 .bg-parallax {
-	background: url(/wp/butter/wp-content/themes/butter/images/parallax-bg.jpg) center bottom no-repeat fixed;
+	background: url(https://s3.eu-west-2.amazonaws.com/mamaspot.images/restaurant-slider-bg2.jpg) center bottom no-repeat fixed;
 	background-size: cover;
 	width: 100%;
 	float: left;
@@ -560,7 +560,7 @@ section {
 }
 
 .bg-parallax.one {
-	background: url(/wp/butter/wp-content/themes/butter/images/parallax-bg.jpg) center bottom no-repeat fixed;
+	background: url(https://s3.eu-west-2.amazonaws.com/mamaspot.images/restaurant-slider-bg2.jpg) center bottom no-repeat fixed;
 	background-size: cover
 }
 
